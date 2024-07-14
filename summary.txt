@@ -1,0 +1,114 @@
+**Key Points:**
+
+* i5 11400f (released in 2021) still performs well for video editing and gaming at 1080p with an RTX 3060.
+* Requires an air cooler (not the stock cooler) to prevent overheating.
+* Not overclockable.
+* For builds after 2024, consider the 12th generation or later for future upgradeability.
+* The i5 11400f provides good performance for its price and meets the user's needs.
+**Key Points:**
+
+* While the product is satisfactory and not planned for future upgrades, it is recommended to consider 12th or 13th generation processors instead of 11th generation for future-proofing in 2024 and beyond.
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+- **CPU:** Intel Core i5-11400F with 6 cores
+- **Performance:** Surprises with FPS performance, outperforming many 8-core CPUs
+- **Compatibility:** Ideal for entry-level 1080p and mid-tier 1440p gaming setups
+- **Price:** Reasonably priced at under $200
+- **Versatile:** Handles video/image editing and gaming well
+- **Value:** Offers excellent price-to-performance ratio
+**Key Points:**
+
+* Intel Core i5-11400F processor provides good performance for office work.
+* Not suitable for gaming; Core i7 recommended for that purpose.
+* Requires an external graphics card as it does not support integrated graphics.
+* Good value when paired with a B560M motherboard.
+* Delivers faster performance than previous generation i3 processors.
+- Old gaming computer upgraded with a 2060 GPU
+- Shipping arrived earlier than expected
+- Intel i7-920 CPU is excellent for mid-range and some high-end GPUs
+- RX 6650 XT GPU works well with the i7-920 CPU in gaming and video editing
+- The stock fan is of poor quality
+- For gaming, i5 processors outperform i3s but are comparable to i7s.
+- The i5-11400F can handle 4K photo and video editing without issues.
+- Choosing the i5-11400F over the newer i5-12400F saves money with minimal performance loss.
+- This CPU requires a dedicated graphics card as it does not have integrated graphics.
+- The Intel i5-11400 is a good CPU for a mid-range gaming PC, especially when paired with a decent GPU.
+- The reviewer built a gaming PC with an i5-11400 and an Arc 750 GPU and found it to perform well, with only a slight decrease in FPS compared to an i7-11700K and an RTX 3070 Ti.
+- The reviewer was so impressed with the i5-11400 that they decided to keep the PC instead of selling it.
+- Intel i5-11400F offers great value for budget gamers at $150.
+- Performs well in both gaming and daily usage.
+- Provides a noticeable improvement over older generation Intel processors.
+- Satisfied with the purchase and expects it to last for a while.
+- 11th generation Intel processor with good performance.
+**Key Points:**
+
+* Intel 1200 LGA is a fast processor.
+* It offers sufficient power for games and basic tasks without bottlenecks.
+* It's an excellent entry-level CPU.
+* Despite requiring a separate heatsink, it's still worthwhile.
+* It can run games smoothly, reaching 240 FPS.
+* It's not necessary to have more than 6 cores for gaming.
+* Some promotions, such as free game codes, may not be available from all sellers.
+* It provides a hassle-free experience when paired with Intel CPUs and ASUS Tuf B560 motherboards.
+- Excellent performance for most games and applications, including Dota 2, Path of Exile, and Elden Ring.
+- Recommended over the i3 due to lower prices and six cores.
+- Fast delivery and easy installation.
+- Suitable for first-time computer builders.
+- Requires a better cooling solution than the stock heatsink for heavy use.
+- High price-to-performance ratio (USD 175)
+- Runs hot, especially without power limits
+- Recommended for low-power consumption
+- Good performance
+- No integrated graphics
+- Product comes with a weak heatsink, but the CPU itself is excellent and efficient
+- Performs well for office work and casual gaming.
+- Does not bottleneck a 3050 or 3060 graphics card.
+- Runs hot, so an aftermarket cooler is recommended.
+- Good value for the performance and price.
+- Typically arrives quickly after purchase.
+- Stays cool even at higher frequencies.
+- Suitable for QHD gaming at 165Hz.
+- No notable issues to report.
+-1
+**Key Points:**
+
+* Intel Core i5 11400F processor
+* 2.65 GHz base clock, 4.40 GHz boost clock
+* 6 cores, 12 threads
+* 8MB Smart Cache
+* Requires thorough background check on the seller
+* Performs well
+* Recommended for gaming, but requires a better cooler than stock due to high temperatures
+- Best processor for the price, especially with a good graphics card.
+- No bottlenecking with mid-high range graphics cards.
+- Works well with Windows 11.
+- Requires a more powerful heatsink to avoid overheating and potential damage.
+- Not as good as other options, but works sufficiently.
+- No original box or cooler included.
+- Performs well for editing and gaming tasks.
+**Key Points:**
+
+* Intel Core i5-6600K outperforms a 6th-gen i5-6600K.
+* Provides good value for the price.
+* Performs well with a 3070 Ti GPU, delivering consistent and smooth performance.
+* Poor packaging.
+- The CPU runs extremely hot, even with additional cooling.
+- It will not boot without a dedicated graphics card.
+- For gaming PCs.
+- The included fan is insufficient for cooling.
+- Requires a liquid cooler.
+- The "F" in the processor name indicates the need for a graphics card.
+- Do not buy based on "up to" speeds, focus on the base speed.
+- User received a used product instead of a new one.
+- Purchased an Intel Core i5-11400F CPU from Platinum Micro Inc. through Amazon.
+- CPU was reported as "new" but arrived in a sealed package with thermal paste already applied.
+- CPU failed to work in a newly built system, which was subsequently confirmed by using a replacement CPU from another PC.
+- Platinum Micro Inc. has been requested to provide a replacement CPU that is in its original, unopened box and functional.
+- The reviewer suspects that other Amazon buyers may have experienced similar issues with this vendor.

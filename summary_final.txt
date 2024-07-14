@@ -1,0 +1,19 @@
+* Consider the i5 11400f for its solid performance in video editing and gaming at 1080p with an RTX 3060.
+* Ensure adequate cooling with an air cooler, as overheating may occur with the stock cooler.
+* While the 11400f is not overclockable, it provides good value for its price and meets user needs.
+* For builds after 2024, prioritize 12th generation or later processors for future upgradeability.
+- Intel Core i5-11400F offers good performance for office use but not gaming.
+- This CPU requires an external graphics card due to its lack of integrated graphics.
+- For gaming, i5 processors are generally preferred over i3s but are comparable to i7s.
+- The Intel i5-11400F handles 4K photo and video editing effectively.
+- Choosing this CPU over the newer i5-12400F can save money with minimal performance compromise.
+- Intel i5-11400 and i5-11400F offer exceptional value for budget gaming PCs, delivering excellent performance in both games and daily tasks.
+- Despite not being the latest generation, these processors provide a significant upgrade over older Intel models, ensuring smooth gameplay and sufficient power for basic tasks.
+- The compact form factor and affordability make these processors ideal for budget-conscious gamers seeking a hassle-free entry-level setup.
+- The CPU offers excellent performance, especially when paired with Intel CPUs and ASUS Tuf B560 motherboards.
+- It is recommended for first-time computer builders and is suitable for both office work and casual gaming.
+- Despite its low power consumption and good value for the performance and price, the CPU runs hot and requires a better cooling solution for heavy use.
+* Stays cool even at higher frequencies.
+* Suitable for QHD gaming at 165Hz.
+* No notable issues to report.
+* Requires a more powerful heatsink to avoid overheating.
